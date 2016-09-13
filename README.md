@@ -1,4 +1,4 @@
-# Died unpublished to npm due heavy structure of app and new middleware based module https://github.com/nodkz/graphql-compose
+# Died unpublished to npm due heavy structure of app and new plugin-based module https://github.com/nodkz/graphql-compose
 
 
 ### Example of `schema` file:
